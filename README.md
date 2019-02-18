@@ -17,3 +17,6 @@ During the hackathon both a static webpage and a Unity-app was created.
 The static webpage is located under `./web` while the unity application is under `./app`
 If you want to run the unity application, be sure to have it installed, and to build it correctly. See ProjectSettings for how the application is set up.
 
+# Project Description
+Find the Devpost [here](https://devpost.com/software/zocial)
+
